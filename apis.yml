@@ -1,8 +1,32 @@
 aid: equilibrium-energy
 name: Equilibrium Energy
-description: Equilibrium Energy is a company surfaced as a portfolio company of dcvc and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Equilibrium Energy is a venture-backed clean energy technology company building
+  PowerOS, an agentic AI platform for the power and energy sector. The platform is
+  designed to solve the extreme data and systems fragmentation across the power tech
+  stack, uniting enterprise data, models, and systems under a common ontology and
+  code frameworks so that power companies can deploy power-specific AI with guardrails
+  they control. PowerOS bundles enterprise agents (trader and research copilots, app
+  co-developers, data ingestion and transformation), configurable application suites
+  (portfolio management, portfolio construction, development workbenches, middle and
+  back office), and reusable core services (optimization, forecasting, risk, grid and
+  market fundamentals, trading). The company's Mission Control product is in invite-only
+  beta. Equilibrium Energy is backed by DCVC and is headquartered in the United States.
+  It currently exposes no public developer API; this profile tracks its public web,
+  news, and organization surface for the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/equilibrium-energy/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/66b0cc158117391612da3b87/66b3a411d72fe97dd8e0d39e_Share%20Image.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +35,47 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Energy
+- Power
+- Artificial Intelligence
+- Agentic AI
+- Energy Trading
+- Forecasting
+- Optimization
+- Clean Energy
+- Machine Learning
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/equilibrium-energy-domain-security.yml
+- type: LLMsTxt
+  url: llms/equilibrium-energy-llms.txt
+- type: Website
+  url: https://www.equilibriumenergy.com/
+- type: About
+  url: https://www.equilibriumenergy.com/about-us
+- type: Blog
+  url: https://www.equilibriumenergy.com/news-updates
+- type: Support
+  url: https://www.equilibriumenergy.com/contact
+- type: Careers
+  url: https://www.equilibriumenergy.com/careers
+- type: PrivacyPolicy
+  url: https://www.equilibriumenergy.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/equilibrium-energy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/equilibrium-energy-inc/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
