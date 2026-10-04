@@ -52,12 +52,12 @@ tags:
 - Energy
 - Power
 - Artificial Intelligence
-- Agentic AI
+- AI Agents
 - Energy Trading
 - Forecasting
 - Optimization
 - Clean Energy
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Energy
@@ -69,6 +69,7 @@ tags_raw:
 - Optimization
 - Clean Energy
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
