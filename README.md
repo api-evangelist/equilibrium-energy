@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Equilibrium Energy is a company surfaced as a portfolio company of dcvc and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Equilibrium Energy is a venture-backed clean energy technology company building PowerOS, an agentic AI platform for the power and energy sector. The platform is designed to solve the extreme data and systems fragmentation across the power tech stack, uniting enterprise data, models, and systems under a common ontology and code frameworks so that power companies can deploy power-specific AI with guardrails they control. PowerOS bundles enterprise agents (trader and research copilots, app co-developers, data ingestion and transformation), configurable application suites (portfolio management, portfolio construction, development workbenches, middle and back office), and reusable core services (optimization, forecasting, risk, grid and market fundamentals, trading). The company's Mission Control product is in invite-only beta. Equilibrium Energy is backed by DCVC and is headquartered in the United States. It currently exposes no public developer API; this profile tracks its public web, news, and organization surface for the API Evangelist network.
 
-Backed by: dcvc
+**Areas:** Company · Energy · Power · Artificial Intelligence · AI Agents · Energy Trading · Forecasting · Optimization · Clean Energy · Machine Learning
+
+## Equilibrium Energy on APIs.io
+
+Everything profiled for Equilibrium Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/equilibrium-energy/](https://apis.io/providers/equilibrium-energy/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Equilibrium Energy Domain Security](https://apis.io/security/equilibrium-energy/equilibrium-energy-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.equilibriumenergy.com/)
+- [Support](https://www.equilibriumenergy.com/contact)
+- [Blog](https://www.equilibriumenergy.com/news-updates)
+- [Privacy policy](https://www.equilibriumenergy.com/privacy-policy)
+- [GitHub](https://github.com/equilibrium-energy)
+
+## API Evangelist rating
+
+**Kin Score 8.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.7** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/equilibrium-energy/](https://apis.io/providers/equilibrium-energy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Equilibrium Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/equilibrium-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
